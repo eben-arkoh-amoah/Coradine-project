@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+}
+
+body{
+    background: url("../images/login-bg-lg.png");
+    height: 100vh;
+    padding: 20px 10%;
+}
+
+.wrapper{
+
+}
